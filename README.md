@@ -1,0 +1,1 @@
+Now running this code will generate a file, containing all possible combinations of letters and numbers, the so-called password dictionary, and once I needed this tool and was useful in selecting a password for the control panel of my home router. The code for a tool that performs password substitution in the web interface of the router's control panel cannot be posted, by law :)
